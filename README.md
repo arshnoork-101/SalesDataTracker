@@ -48,13 +48,7 @@ pip install -r requirements.txt
 
 Once the dependencies are installed, follow these steps to run the app:
 
-1. **Open your terminal** or command prompt.
-
-2. **Navigate to the project directory**:
-
-   ```bash
-   cd sales_report_project
-    ```
+1. **Open your terminal** and **Navigate to the project directory**:
 
 3. Run the application
     ```
