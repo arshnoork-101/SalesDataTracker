@@ -1,4 +1,4 @@
-# 📊 Sales Report Processing App
+# 📊 Sales Data Tracker App
 
 A Python-based terminal application that helps you collect, process, and visualize sales data for multiple stores. It generates Excel reports with detailed product-level sales and discount insights, along with easy-to-understand bar charts.
 
