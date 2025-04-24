@@ -1,0 +1,6 @@
+openpyxl
+pandas
+numpy
+matplotlib
+scikit-learn
+
